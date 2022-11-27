@@ -6,7 +6,7 @@ public class Employee extends Person {
 	String designation;
 	
 	
-	public void display(){
+	public void display() {
 		
 		System.out.println("Employee [salary=" + salary + ", designation=" + designation + ", id=" + id + ", name=" + name + "]");
 		
